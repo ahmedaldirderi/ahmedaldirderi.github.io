@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 I am Ahmed Aldirderi Abdalla Ahmed. I’m a Computer Science and Environmental major at Macalester College 23’. For my work and academics, I am driven by using computation and data to find interdisciplinary solutions to environmental problems. I have been part of ongoing research investigating the relationship between redlining and water quality in the twin cities. Currently I am interning at the Public Utilities Commission as a Data Specialist. 
