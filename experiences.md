@@ -9,7 +9,7 @@ title: Experiences
  
 I have been part of a year-long research project at Macalester College with Professor Anika Bratt and Professor Brianna Heggeseth investigating the relationship between redlining and water quality in the Twin Cities metro area in Minnesota. It started as a summer research project in 2022, with my coworkers and friends, CJ Denney and Alex Jabbarpour. I handled the Data aspect of the water quality project looking at historical big data that exists on the topic, while my coworkers went out and collected and analyzed field samples from ponds and lakes. 
 
-![Alt text](assets/img/redlining%20map.png)
+![](assets/img/redlining%20map.png)
 
 This led me to combining a variety of datasets, including redlining data from University of Richmond Digital Scholarship lab (DSL), surface water quality data from the Minnesota Pollution Control Agency (MPCA). Combining these datasets we found a significant relationship between average nutrient content (phosphorus and nitrogen) and redlining. 
 
