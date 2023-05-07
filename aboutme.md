@@ -4,13 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I am Ahmed Aldirderi Abdalla Ahmed. I’m a Computer Science and Environmental major at Macalester College 23’. For my work and academics, I am driven by using computation and data to find interdisciplinary solutions to environmental problems. I have been part of ongoing research investigating the relationship between redlining and water quality in the twin cities. Currently I am interning at the Public Utilities Commission as a Data Specialist. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am from Sudan. Environmental challenges like climate change affect people disproportionately around the world. Sudan like many places, have done little to contribute to climate change yet will face the brunt of its effects. Environmental justice is thus incredibly important of any environmental initiative and I hope to reflect that in my future career/work. 
+
