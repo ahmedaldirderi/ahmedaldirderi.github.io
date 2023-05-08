@@ -32,10 +32,10 @@ I brought on a lot of my programming and coding skills that I have been honing d
 
 
 <div style="display:flex; flex-wrap:wrap;">
-  <div style="flex:45%; padding:5px;">
+  <div style="flex:40%; padding:5px;">
     <img src= assets/img/puc_graph1.png alt="First Image">
   </div>
-  <div style="flex:46%; padding:5px;">
+  <div style="flex:41%; padding:5px;">
     <img src= assets/img/puc_graph2.png alt="Second Image">
   </div>
 </div>
