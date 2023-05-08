@@ -31,8 +31,8 @@ During the spring semester of my senior year I interned with the Minnesota Publi
 I brought on a lot of my programming and coding skills that I have been honing during my time at Macalester College as a Computer Science major. I was able to automate the compilation and cleaning of hundreds of compliance filing dataset on issues such as natural gas service, economic recovery, and distributed energy resources. I then analyzed and visualized.
 
 
-<img class=mobile-image src="assets/img/puc_graph1.png" />
-<img class=mobile-image src="assets/img/puc_graph2.png" />
+    <img class=mobile-image src="assets/img/puc_graph1.png"/> 
+    <img class=mobile-image src="assets/img/puc_graph2.png" />
 
 <style>
   .img {
