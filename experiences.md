@@ -3,9 +3,10 @@ layout: page
 title: Experiences
 ---
 
-## Work Experience and Projects
+# Work Experience and Projects
+
  
-### Redlining and Water Quality
+## Redlining and Water Quality
  
 I have been part of a year-long research project at Macalester College with Professor Anika Bratt and Professor Brianna Heggeseth investigating the relationship between redlining and water quality in the Twin Cities metro area in Minnesota. It started as a summer research project in 2022, with my coworkers and friends, CJ Denney and Alex Jabbarpour. I handled the Data aspect of the water quality project looking at historical big data that exists on the topic, while my coworkers went out and collected and analyzed field samples from ponds and lakes. 
 
@@ -20,3 +21,20 @@ I continued my research from the summer through my entire senior year. Our initi
 ![Alt text](assets/img/wq_phos_graph.png)
 ![Alt text](assets/img/wq_p65_graph.png)
 ![Alt text](assets/img/wq_minority_graph.png)
+
+
+
+## Public Utilities Commission Internship
+
+During the spring semester of my senior year I interned with the Minnesota Public Utilities Commission (PUC) as a Data Specialist. It was an exciting and important learning experience in the application of data tools, particularly programming, in a workplace, and particularly in the field of government and energy policy.  
+
+I brought on a lot of my programming and coding skills that I have been honing during my time at Macalester College as a Computer Science major. I was able to automate the compilation and cleaning of hundreds of compliance filing dataset on issues such as natural gas service, economic recovery, and distributed energy resources. I then analyzed and visualized.
+
+
+|First Image|Second Image|
+|:-:|:-:|
+|![First Image](assets/img/puc_graph1.png)
+
+At the end of my internship I presented the results of my analysis to the Commissioners! I took their feedback and questions and incorporated them into a revised version of the visualization and data. It was an important exercise in communication and incorporating critique. In addition, it is really cool to see how Commissioners and policymakers think of data and how it informs their decisions. 
+
+
