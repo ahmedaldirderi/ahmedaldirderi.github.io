@@ -30,10 +30,10 @@ During the spring semester of my senior year I interned with the Minnesota Publi
 
 I brought on a lot of my programming and coding skills that I have been honing during my time at Macalester College as a Computer Science major. I was able to automate the compilation and cleaning of hundreds of compliance filing dataset on issues such as natural gas service, economic recovery, and distributed energy resources. I then analyzed and visualized.
 
-
-|First Image|Second Image|
-|:-:|:-:|
-|![First Image](assets/img/puc_graph1.png)
+<p float="left">
+  <img src= assets/img/puc_graph1.png width="45%" />
+  <img src= assets/img/puc_graph2.png width="46%" />
+</p>
 
 At the end of my internship I presented the results of my analysis to the Commissioners! I took their feedback and questions and incorporated them into a revised version of the visualization and data. It was an important exercise in communication and incorporating critique. In addition, it is really cool to see how Commissioners and policymakers think of data and how it informs their decisions. 
 
