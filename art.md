@@ -1,6 +1,6 @@
 ---
 layout: page
-title: art
+title: Art
 youtubeId: rgDY5XNqNUY
 ---
 
