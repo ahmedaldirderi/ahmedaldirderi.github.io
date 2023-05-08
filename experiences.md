@@ -6,7 +6,7 @@ title: Experiences
 # Work Experience and Projects
 ____________________________________________
  
-## Redlining and Water Quality
+## Redlining and Water Quality Research
  
 I have been part of a year-long research project at Macalester College with Professor Anika Bratt and Professor Brianna Heggeseth investigating the relationship between redlining and water quality in the Twin Cities metro area in Minnesota. It started as a summer research project in 2022, with my coworkers and friends, CJ Denney and Alex Jabbarpour. I handled the Data aspect of the water quality project looking at historical big data that exists on the topic, while my coworkers went out and collected and analyzed field samples from ponds and lakes. 
 
