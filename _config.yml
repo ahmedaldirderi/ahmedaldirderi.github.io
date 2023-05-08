@@ -256,32 +256,21 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 
-# markdown: kramdown
-
-markdown: redcarpet
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - fenced_code_blocks
-    - autolink
-    - tables
-    - with_toc_data
-    - footnotes
-    - strikethrough
-    - superscript
-    - underline
-    - highlight
-    - quote
-    - space_after_headers
-    - lax_spacing
+markdown: kramdown
 
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-# kramdown:
-#   input: GFM
-#   parse_block_html: true
+kramdown:
+  input: GFM
+  parse_block_html: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    block:
+      title_prefix: '%{number}. 
 
 
 # Default YAML values (more information on Jekyll's site)
