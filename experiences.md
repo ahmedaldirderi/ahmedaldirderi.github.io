@@ -37,4 +37,5 @@ At the end of my internship I presented the results of my analysis to the Commis
 
 
 ![Alt text](assets/img/picture-commissioners.png)
+
 ![Alt text](assets/img/presentation_commissioners.png)
