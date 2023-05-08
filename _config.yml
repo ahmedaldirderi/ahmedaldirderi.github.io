@@ -265,7 +265,6 @@ paginate: 5
 kramdown:
   input: GFM
   parse_block_html: true
-  hard_wrap: false
 
 
 # Default YAML values (more information on Jekyll's site)
