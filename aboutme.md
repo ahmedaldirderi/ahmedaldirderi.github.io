@@ -4,7 +4,7 @@ title: About me
 ---
 
 
-<img align="right" style="max-width: 50%;" src=assets/img/ahmed-4.jpg markdown="1">
+<img align="right" style="max-width: 50%;" src=assets/img/ahmed-4.jpg markdown="0">
 
 
 I am Ahmed Aldirderi Abdalla Ahmed. I’m a Computer Science and Environmental major at Macalester College 23’. For my work and academics, I am driven by using computation and data to find interdisciplinary solutions to environmental problems. I have been part of ongoing research investigating the relationship between redlining and water quality in the twin cities. 
