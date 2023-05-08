@@ -3,8 +3,6 @@ layout: page
 title: Skills
 ---
 
-# Skills
-
 Programming skills: Python, SQL, Java, R, C#, C, Unity, spaCy (Natural Language Processing), scikit-learn, Pandas, Tabula, NumPy, Jupyter Notebook, Git
 
 ## Data skills
