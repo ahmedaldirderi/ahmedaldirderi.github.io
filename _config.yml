@@ -263,7 +263,6 @@ paginate: 5
 
 kramdown:
   input: GFM
-  parse_block_html: true
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -298,3 +297,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
