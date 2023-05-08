@@ -266,11 +266,6 @@ kramdown:
   input: GFM
   parse_block_html: true
   hard_wrap: false
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
-    block:
-      title_prefix: '%{number}. 
 
 
 # Default YAML values (more information on Jekyll's site)
